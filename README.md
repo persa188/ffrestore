@@ -6,9 +6,9 @@ should work for any linux based server
 in a linux terminal type:
 >> ./ffrestore.sh
 
-if you get an error try:\n
+if you get an error try:  
 
->> chmod 777 ./ffrestore.sh\n
->> ./ffrestore.sh
+>> chmod 777 ./ffrestore.sh  
+>> ./ffrestore.sh  
 
 you should then be OK to open firefox.
