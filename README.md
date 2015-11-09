@@ -11,4 +11,4 @@ in a linux terminal type:
 >> chmod 777 ./ffrestore.sh
 >> ./ffrestore.sh
 
-yous should then be OK to open firefox.
+you should then be OK to open firefox.
